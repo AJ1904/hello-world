@@ -1,7 +1,7 @@
 # hello-world
 
 ## Inspiration
-The code was created for the MLH (Major League Hacking) challenge, specifically for the beginners week. Since it is my first attempt in any hackathon, I wanted to keep it simple but also use web development in some way.
+The code was created for the MLH (Major League Hacking) challenge, specifically for the beginners week. Since it is my first attempt in any hackathon, I wanted to keep it simple but also use intimidating web development in some way.
 
 ## What it does
 The code stores translation of 'Hello World!' in 76 languages used worldwide. The `taipy GUI` contains a slider to select first letter of language. Based on the selection, we see the list of languages starting with this letter and their corresponding translations of 'Hello World!'. To use graphs provided by `taipy`, there are also graphs showing interesting analysis of languages. 
