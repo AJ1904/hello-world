@@ -34,3 +34,7 @@ Utilizing Python and leveraging the `taipy` library, we crafted a script that po
 
 ## What's next for hello-world
 - Using translator for any input text, not just 'Hello World!'
+
+## Try it out
+- https://hello-world.taipy.cloud/
+- https://www.youtube.com/watch?v=6Rvn8o9QTZI
